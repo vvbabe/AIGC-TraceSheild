@@ -1,0 +1,10 @@
+ * Serving Flask app 'imageMark'
+ * Debug mode: off
+2025-08-14 06:46:10,708 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://172.17.0.3:8081
+2025-08-14 06:46:10,708 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-14 07:25:51,736 - __main__ - INFO - 提取水印(原始): 'basketball'
+2025-08-14 07:25:51,737 - __main__ - INFO - 提取水印(处理后): 'basketball'
+2025-08-14 07:25:51,737 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 07:25:51] "POST /extract_watermark HTTP/1.0" 200 -
